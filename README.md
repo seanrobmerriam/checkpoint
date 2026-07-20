@@ -1,3 +1,5 @@
+<img src="assets/logo.png" alt="checkpoint-logo" width="1200" />   
+
 # Checkpoint
 
 Checkpoint is an [MCP](https://modelcontextprotocol.io/) proxy that
